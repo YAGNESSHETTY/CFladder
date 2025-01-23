@@ -1,0 +1,50 @@
+.table > :not(caption) > * > * {
+  padding: 0rem 1.25rem;
+  background-color: var(--bs-table-bg);
+  border-bottom-width: 1px;
+  box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
+}
+.solved{
+    background-color: #7cf07c;
+}
+/* a{
+    text-decoration: underline;
+    text-decoration-color: green;
+} */
+
+/* .lock { */
+    /* background: gray;
+    border-radius: 3px;
+    width: 25px;
+    height: 20px;
+    margin-top: 60px;
+    margin-left: 60px;
+    position: relative;
+  } */
+  
+  /* .lock:before {
+    content: "";
+    display: block;
+    position: absolute;
+    border:3px solid gray;
+    top: -14px;
+    left: 2.3px;
+    width: 15px;
+    height: 27px;
+    border-radius: 35px 35px 0 0;
+  } */
+
+  /* .changetr{
+      background-color: tomato;
+  } */
+/* 
+  .tick {
+    font-family: 'Iconses';
+    font-weight: 900;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    content: '\f102';
+} */
