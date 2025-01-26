@@ -1,5 +1,4 @@
 import Table from './Components/Table/Table'
-// import Table from './Components/Table/Table'
 import Home from './Components/Home/Home';
 import './App.css';
 import Ladder from './Components/Ladder/Ladder';
